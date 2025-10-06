@@ -14,6 +14,14 @@
     "location": "Pune, India",
     "bio": "Host of Hacktoberfest session",
     "avatar": "https://github.com/SnehalMeshram09.png"
+  },
+  {
+    "name": "Divjot Saini",
+    "github": "divjots123",
+    "role": "Participant",
+    "location": "Pune, India",
+    "bio": "Participant Of Hacktoberfest",
+    "avatar": ""
   }
   
 ]
